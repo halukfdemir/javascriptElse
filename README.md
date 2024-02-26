@@ -1,0 +1,2 @@
+# Javascript
+"else" konusu işlendi
